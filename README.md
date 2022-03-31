@@ -1,4 +1,4 @@
-# DER-network-Sim
+# Basic False Data injection simulation
 
 This code is used to simulate basic False data injection attacks between devices
 
