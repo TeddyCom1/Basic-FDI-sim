@@ -19,13 +19,13 @@ python3 DER_master 127.0.0.1 8081 10
 Then run the connecting devices
 
 e.g:
-
 ```Bash
 python3 DER_device 127.0.0.1 8081 9
 ```
 
 Then run the sus device to simulate false data injections
 
+e.g:
 ```Bash
 python3 DER_sus 127.0.0.1 8081 9
 ```
